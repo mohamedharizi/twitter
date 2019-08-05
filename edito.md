@@ -18,7 +18,7 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 2. Dans le respect de la bienséance, racisme, sexismeet toute autre forme de discrimination sont bannies.  
 
-3. Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde dudéveloppemen.
+3. Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde du développement.
 
 4. Organiser des petits sondages/quizz pour animer lecompte avec la communauté.
 
