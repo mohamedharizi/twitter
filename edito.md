@@ -14,17 +14,17 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 
 
-1. La chaîne twitter faite par et pour les developpeursweb juniors.  
+1. La chaîne twitter faite par et pour les developpeurs web juniors.  
 
-2. Dans le respect de la bienséance, racisme, sexismeet toute autre forme de discrimination sont bannies.  
+2. Dans le respect de la bienséance, racisme, sexisme et toute autre forme de discrimination sont bannies.  
 
-3. Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde dudéveloppemen.
+3. Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteurs d'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde dudéveloppemen.
 
-4. Organiser des petits sondages/quizz pour animer lecompte avec la communauté.
+4. Organiser des petits sondages/quizz pour animer le compte avec la communauté.
 
-5. Le contenu des tweets devra être claire ,varié maispertinent et cohérent.
+5. Le contenu des tweets devra être claire ,varié mais pertinent et cohérent.
 
-6. Notre priorité étant l'interactivité et l'aspectludique, ne pas faire de simples tweets sans image/gif,etc..
+6. Notre priorité étant l'interactivité et l'aspect ludique, ne pas faire de simples tweets sans image/gif,etc..
 
 ----
 
@@ -41,5 +41,5 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 **5 publications par jour, 5 jours par semaine.**  
 
-2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi(GIF/Image/Tutoriel)2 publications fin d'après-midi/soirée (GIF techniques)
+2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi (GIF/Image/Tutoriel), 2 publications fin d'après-midi/soirée (GIF techniques)
 
